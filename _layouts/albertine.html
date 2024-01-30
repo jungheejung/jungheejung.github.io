@@ -111,6 +111,8 @@ It is threatened by habitat loss.
               <i class="fa fa-linkedin-square"></i>
             {% elsif profile.network == 'Twitter' %}
               <i class="fa fa-twitter-square"></i>
+            {% elsif profile.network == 'Github' %}
+            <i class="fa-brands fa-github"></i>
             {% endif %}
             <a href="{{ profile.url }}">
               {{ profile.network }}

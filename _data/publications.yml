@@ -11,11 +11,11 @@
 - type: conference
   title: A multimodal fMRI dataset unifying naturalistic processes with a rich array of experimental tasks
   authors: Heejung Jung, Maryam Amini, Bethany A. Hunt, Eilis I. Murphy, Patrick Sadil, Yaroslav O. Halchenko, Zizhuang Miao, Philip Al. Kragel, Xiaochun Han, Mickela Heilicher, Bogdan Petre, Michael Sun, Owen G. Collins, Martin A. Lindquist, Tor D. Wager
-  publisher: In prep
+  year: In prep
 - type: conference
   title: "Domain-general and specific effects of expectation on multimodal negative affect"
   authors: Heejung Jung, Aryan Yazdanpanah, Alireza Soltani, Martin A. Lindquist, Tor D. Wager
-  # year: 2011
+  year: In prep
   publisher: In prep
 - type: conference
   title: "Grounding High Dimensional Representation Similarity by Comparing Decodability and Network Performance"
