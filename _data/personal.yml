@@ -1,44 +1,31 @@
-name: Ian Li
+name: Heejung Jung
 
-label: UI Designer
+label: Graduate Student
 
 picture: /img/profile-picture.jpg
 
-email: ianli@ianli.com
+email: heejung.jung.gr@dartmouth.edu
 
-phone: 
+phone:
 
-department: Android UX
+department: Psychological & Brain Sciences
 
-institution: Google
+institution: Dartmouth College
 
 mailing_address: >
-  1600 Amphitheatre Parkway
-  Mountain View, CA 94043
+  3 Maynard st, 
+  Hanover, NH
 
 profiles:
-  - 
-    network: Google Scholar
+  - network: LinkedIn
     username:
-    url: http://scholar.google.com/citations?user=JS7sVyQAAAAJ&hl=en
-  -
-    network: LinkedIn
-    username:
-    url: https://www.linkedin.com/pub/ian-li/1/681/8b0
-  -
-    network: Twitter
-    username: ianli
-    url: https://twitter.com/ianli/
+    url: https://www.linkedin.com/in/jung-heejung/
+  - network: Github
+    username: jungheejung
+    url: https://github.com/jungheejung
 
 intro:
   title: Hello!
   body: >
-    I'm a UI designer at Google.
-    Before Google, I was a Ph.D. student in the 
-    [Human-Computer Interaction Institute](http://hcii.cs.cmu.edu/) at Carnegie Mellon University.
-    My advisors were 
-    [Anind Dey](http://www.cs.cmu.edu/~anind/) and 
-    [Jodi Forlizzi](http://goodgestreet.com/). 
-    I worked on designed and developed 
-    [personal informatics tools](http://www.personalinformatics.org/) that help people better understand their own behavior.
-    [My dissertation](http://ianli.com/thesis/) explored how contextual information can improve self-knowledge in personal informatics systems.
+    I'm a graduate student in the Cognitive Affective Neuroscience Lab. My advisors are [Tor Wager]() and [McKell Carter]().
+    I'm interested in macroscale dynamics across different cognitive processes. Among my current projects are a large-scale neuroimaging dataset that I led and a project that explores expectancy effects in various domains, with a particular emphasis on placebo effects and their underlying mechanisms.
