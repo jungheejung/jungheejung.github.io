@@ -28,8 +28,11 @@ It is threatened by habitat loss.
   <title>{{ site.data.personal.name }}</title>
 
   <!-- Stylesheets -->
+  
   <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:400,700">
-  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css">
+  <!-- <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css"> -->
+  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
   <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
   <link rel="stylesheet" href="{{ site.baseurl }}/assets/albertine/css/default.css">
 
@@ -106,11 +109,11 @@ It is threatened by habitat loss.
           {% for profile in site.data.personal.profiles %}
             
             {% if profile.network == 'Google Scholar' %}
-              <i class="fa fa-google"></i>
+              <i class="fa-brands fa-google"></i>
             {% elsif profile.network == 'LinkedIn' %}
-              <i class="fa fa-linkedin-square"></i>
+              <i class="fa-brands fa-linkedin-square"></i>
             {% elsif profile.network == 'Twitter' %}
-              <i class="fa fa-twitter-square"></i>
+              <i class="fa-brands fa-twitter-square"></i>
             {% elsif profile.network == 'Github' %}
             <i class="fa-brands fa-github"></i>
             {% elsif profile.network == 'Resume' %}
