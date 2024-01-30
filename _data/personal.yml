@@ -23,6 +23,9 @@ profiles:
   - network: Github
     username: jungheejung
     url: https://github.com/jungheejung
+  - network: Resume
+    username: jungheejung
+    url: https://github.com/jungheejung/jungheejung.github.io/blob/master/img/CV.pdf
 
 intro:
   title: Hello!
