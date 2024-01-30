@@ -52,7 +52,8 @@ section {
     line-height:40px;
     font-weight:bold;
     font-size:32px;
-    color:#ff5722;
+    color:#C992B4;
+    /* color:#ff5722; */
   }
   section .lead {
     font-size:24px;
@@ -65,7 +66,8 @@ section {
   }
   section a,
   section a:hover {
-    color:#44a9eb;
+    color: #2C2AD7;
+    /* #44a9eb; */
   }
 
 /*******************
@@ -73,7 +75,8 @@ section {
  *******************/
 .intro-screen,
 .intro-screen header {
-  background-color:#44a9eb;
+  /* background-color:#44a9eb; */
+  background-color:#4850E5;
   color:#fff;
 }
   .intro-screen h1,
@@ -83,6 +86,7 @@ section {
   }
   .intro-screen a,
   .intro-screen a:hover {
+    /* color:#F8ADA7; */
     color:#fff59d;
   }
 
