@@ -33,7 +33,7 @@
   year: 2023
   month: August
   pages: 1-16
-  pdf: http://www.personalinformatics.org/docs/papers/2012-ianli-tochi-physical-activity.pdf
+  pdf: https://doi.org/10.52294/001c.87678
   url: https://doi.org/10.52294/001c.87678
 - type: journal
   title: "Unpacking placebo and working memory training effects on cognitive performance"
@@ -56,7 +56,8 @@
   year: 2022
   # month: August
   pages: 381–396
-  # pdf: http://www.personalinformatics.org/docs/papers/2012-ianli-tochi-physical-activity.pdf
+  pdf: https://doi.org/10.1162/jocn\_a\_01803
+  # http://www.personalinformatics.org/docs/papers/2012-ianli-tochi-physical-activity.pdf
   url: https://doi.org/10.1162/jocn\_a\_01803
 - type: journal
   title: "A Nexus Model of Restricted Interests in Autism Spectrum Disorder"
