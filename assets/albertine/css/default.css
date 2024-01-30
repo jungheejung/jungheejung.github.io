@@ -79,7 +79,8 @@ section {
 .intro-screen header {
   /* background-color:#44a9eb; */
   /* background-color:#a8d0e6; */
-  background-color:#2730D8;
+  /* background-color:#2730D8; */
+  background-color: #89CFF0;
   color:#fff;
 }
   .intro-screen h1,
