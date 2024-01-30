@@ -1,0 +1,71 @@
+- type: journal
+  title: Using context to reveal factors that affect physical activity
+  authors: Ian Li, Anind K. Dey, Jodi Forlizzi
+  journal: ACM Transactions on Computer Human Interaction
+  volume: 19
+  issue: 1
+  year: 2012
+  month: March
+  pdf: http://www.personalinformatics.org/docs/papers/2012-ianli-tochi-physical-activity.pdf
+  url: http://dl.acm.org/citation.cfm?id=2147783.2147790
+- type: journal
+  title: "Domain-general and specific effects of expectation on multimodal negative affect."
+  authors: Heejung Jung, Yazdanpanah, A. Soltani, A., Lindquist, M. A., \& Wager, T. D.
+  year: 2011
+  publisher: In Prep
+- type: journal
+  title: "Grounding High Dimensional Representation Similarity by Comparing Decodability and Network Performance"
+  authors: Hayne, L., \textbf{Jung, H.}, Suresh, A., \& R. McKell Carter
+  journal: Submitted to Transactions on Machine Learning Research
+  url: https://openreview.net/forum?id=YY2iA0hfia
+- type: conference
+  title: "Divergent effects of expectations on behavior and brain"
+  authors: Heejung Jung, Aryan Yazdanpanah, Alireza Soltani, & Tor D. Wager
+  year: 2023
+  conference: Proceedings of 2023 Conference on Cognitive Computational Neuroscience
+  pdf: https://2023.ccneuro.org/proceedings/0001075.pdf
+  url: https://doi.org/10.32470/ccn.2023.1161-0
+- type: journal
+  title: "How can we reduce the climate costs of OHBM? A vision for a more sustainable meeting"
+  authors: Samira Epp, Heejung Jung, Valentina Borghesani, Milan Klöwer, Marie-Eve Hoeppli, Maria Misiura, Elinor Thompson, Niall W Duncan, Anne E Urai, Michele Veldsman, Sepideh Sadaghiani, Charlotte L Rae
+  journal: Aperture Neuro
+  volume: 3
+  year: 2023
+  month: August
+  pages: 1-16
+  pdf: http://www.personalinformatics.org/docs/papers/2012-ianli-tochi-physical-activity.pdf
+  url: https://doi.org/10.52294/001c.87678
+- type: journal
+  title: "Unpacking placebo and working memory training effects on cognitive performance"
+  authors: Tor D. Wager, Heejung Jung
+  journal: Proceedings of the National Academy of Sciences of the United States of America
+  volume: 119
+  issue: 42
+  year: 2022
+  # month: August
+  # pages: 1-16
+  # pdf: http://www.personalinformatics.org/docs/papers/2012-ianli-tochi-physical-activity.pdf
+  url: https://doi.org/10.1073/pnas.2214268119
+# \item{\textbf{Jung, H.}, Wager, T. D., \& Carter, R. M. (2022). Novel Cognitive Functions Arise at the Convergence of Macroscale Gradients. Journal of Cognitive Neuroscience, 34(3), 381–396, https://doi.org/10.1162/jocn\_a\_01803}
+- type: journal
+  title: "Novel Cognitive Functions Arise at the Convergence of Macroscale Gradients"
+  authors: Heejung Jung, Tor D. Wager, R. McKell Carter
+  journal: Journal of Cognitive Neuroscience
+  volume: 34
+  issue: 3
+  year: 2022
+  # month: August
+  pages: 381–396
+  # pdf: http://www.personalinformatics.org/docs/papers/2012-ianli-tochi-physical-activity.pdf
+  url: https://doi.org/10.1162/jocn\_a\_01803
+- type: journal
+  title: "A Nexus Model of Restricted Interests in Autism Spectrum Disorder"
+  authors: R. McKell Carter, Heejung Jung, J. Reaven, A. Blakeley-Smith, G. S. Dichter
+  journal: Frontiers in human neuroscience
+  volume: 14
+  article: 212
+  year: 2020
+  month: June
+  pages: 1-11
+  pdf: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7283772/pdf/fnhum-14-00212.pdf
+  url: 10.3389/fnhum.2020.00212
