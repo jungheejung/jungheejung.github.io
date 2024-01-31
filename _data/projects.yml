@@ -1,28 +1,30 @@
 - name: "Neural correlates of expectantions across multiple domains"
   description: >
-    My Ph.D. thesis explores the use of contextual information in personal informatics systems to help users understand the factors that affect their behavior. 
-    Most personal informatics systems only show one type of behavioral information, which makes it difficult to discover the factors that affect one's behavior. 
-    Supporting exploration of multiple types of contextual and behavioral information in a single interface may help.
-  image: /img/phd-thesis.png
+    Expectations can shape experiences. For example, one may find a shot to be more painful just because the doctor said so, or find the midterm to be easy due to a friend's headsup on the difficulty 
+    Here, I investigate how expectation shape experiences of across multiple domains of Somatic pain, Vicarious pain, and Cognitive effort. 
+    Check out my analysis notebook - please note that this is not production level, but just a display of my current analyses for reproducibility and documentation [Cue-expectancy bookdown](https://jungheejung.github.io/cue_expectancy)
+  image: /img/project_cue_pain.png
   url: jungheejung.github.io/cue_expectancy
 
 - name: "BIDS-ifying and analyzing skin conductance response"
   description: >
     This is a repository that converts raw physiological data, collected from Acknowledge Biopac system, into BIDS compatible tsv files. It identifies boundaries between runs and splits them into separate runs. This tool box also extract event files based on TTL signals and digital channel toggles.
     This is work in collaboration with Isabel Neumann - check out our walkthrough here [Google Colab](https://github.com/spatialtopology/spacetop-prep/blob/master/spacetop_prep/physio/walkthrough_p01_grouplevel.ipynb)
-  image: /img/physio.png
+  image: /img/project_physio.png
   url: https://github.com/spatialtopology/spacetop-prep/blob/master/spacetop_prep/physio/README.md
 
 - name: "A python library for preprocessing everything in my dataset"
   description: >
-    IMPACT, Improving and Motivating Physical Activity using ContexT, is a system that monitors and informs users about their physical activity and the context in which the activities happen. 
-    The system shows real-time information on a phone interface and historical information on a desktop and online interface. 
-    By contextualizing physical activity, the system increases users' awareness of their physical activity.
-  image: https://github.com/spatialtopology/spacetop-prep/tree/master
+    For reproducibility purposes, I keep track of my code that was developed during the preprocessing stage. 
+    This includes mriqc, fmriprep, but also custom-made code, such as plotting the voxel wise correlations across runs, and identifying the least similar runs within a participant.
+    Other code includes behavioral data organization and questionnaire database maintenance. 
+    The intention is that, by the time the dataset is published and opensource, others can utilize these codes.
+  url: https://github.com/spatialtopology/spacetop-prep/tree/master
+  image: /img/spacetop_preproc.png
 
 - name: "Published code for data collection"
   description: >
-    IMPACT, Improving and Motivating Physical Activity using ContexT, is a system that monitors and informs users about their physical activity and the context in which the activities happen. 
-    The system shows real-time information on a phone interface and historical information on a desktop and online interface. 
-    By contextualizing physical activity, the system increases users' awareness of their physical activity.
-  image: https://github.com/spatialtopology/spacetop-prep/tree/master
+    Reproducibility starts from the genesis: data collection. I made sure that all code was frozen and packaged prior to data collection.
+    Each repository, e.g. task-faces, task-narratives, is a standalone repository, time-stamped at the time of data collection launch.
+  url: https://github.com/spatialtopology/
+  image: /img/project_spacetop.png
