@@ -25,10 +25,11 @@ profiles:
     url: https://github.com/jungheejung
   - network: Resume
     username: jungheejung
-    url: https://github.com/jungheejung/jungheejung.github.io/blob/master/img/CV.pdf
+    pdf: https://github.com/jungheejung/jungheejung.github.io/blob/master/img/CV.pdf
 
 intro:
   title: Hello!
   body: >
     I'm a graduate student in the Cognitive Affective Neuroscience Lab advised by [Tor Wager](https://pbs.dartmouth.edu/people/tor-wager) and co-advised by [McKell Carter](https://www.colorado.edu/psych-neuro/r-mckell-carter).
-    I'm interested in macroscale dynamics across different cognitive processes. Among my current projects are a maintaining a large-scale neuroimaging dataset that I led and a fMRI project that explores expectancy effects in various domains, with a particular emphasis on placebo effects and their underlying mechanisms.
+    I'm interested in macroscale dynamics in various cognitive processes and how different processes converge. 
+    My ongoing projects include managing a comprehensive neuroimaging dataset, which I spearheaded, and an fMRI study focused on expectancy effects across domains, with a particular focus on placebo effects and their underlying mechanisms.
