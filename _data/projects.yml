@@ -20,7 +20,7 @@
     Other code includes behavioral data organization and questionnaire database maintenance. 
     The intention is that, by the time the dataset is published and opensource, others can utilize these codes.
   url: https://github.com/spatialtopology/spacetop-prep/tree/master
-  image: /img/spacetop_preproc.png
+  image: /img/project_spacetop_prep.png
 
 - name: "Published code for data collection"
   description: >
