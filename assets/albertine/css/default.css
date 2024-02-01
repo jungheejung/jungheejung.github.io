@@ -55,7 +55,8 @@ section {
     /* color:#C992B4; */
     /* color:#fc4445; */
     /* color:#C64191; */
-    color: #7AF864;
+    /* color: #7AF864; */
+    color: #00C966;
   }
   section .lead {
     font-size:24px;
@@ -70,7 +71,8 @@ section {
   section a:hover {
     /* color: #2C2AD7; */
     /* color:#70D6FF; */
-    color:#2868CE;
+    /* color:#2868CE; */
+    color: #0B5EFE;
   }
 
 /*******************
@@ -84,7 +86,8 @@ section {
   /* background-color: #89CFF0;  */
   /* #BAFFAD */
   /* background-color: #BFDBFE;  */
-  background-color: #55CC81;
+  background-color:#00C966;
+   /* #55CC81; */
    /* #CC99CC; */
    /* testcolor: #A6C6FD;
   testcolor: #AEC6F7;  */
