@@ -51,12 +51,13 @@ section {
     padding:0 0 8px;
     line-height:40px;
     font-weight:bold;
-    font-size:32px;
+    font-size:24px;
     /* color:#C992B4; */
     /* color:#fc4445; */
     /* color:#C64191; */
     /* color: #7AF864; */
-    color: #00C966;
+    color: #8C1515;
+/*       #00C966; */
   }
   section .lead {
     font-size:24px;
