@@ -1,20 +1,20 @@
 name: Heejung Jung
 
-label: PhD Student
+label: Cognitive Neuroscience, PhD
 
 picture: /img/profile-picture.jpg
 
-email: heejung.jung.gr@dartmouth.edu
+email: heejung.jung.@stanford.edu
 
 phone:
 
-department: Psychological & Brain Sciences
+department: Neurology & Neurological Sciences
 
-institution: Dartmouth College
+institution: Stanford University
 
 mailing_address: >
-  3 Maynard st, 
-  Hanover, NH
+  Alway Bldg, 
+  Stanford, CA
 
 profiles:
   - network: LinkedIn
@@ -30,6 +30,9 @@ profiles:
 intro:
   title: Hello!
   body: >
-    I'm a graduate student in the Cognitive Affective Neuroscience Lab advised by [Tor Wager](https://pbs.dartmouth.edu/people/tor-wager) and co-advised by [McKell Carter](https://www.colorado.edu/psych-neuro/r-mckell-carter).
-    I'm interested in macroscale dynamics in various cognitive processes and how different processes converge. 
-    My ongoing projects include managing a comprehensive neuroimaging dataset, which I spearheaded, and an fMRI study focused on expectancy effects across domains, with a particular focus on placebo effects and their underlying mechanisms.
+    I'm a postdoctoral researcher at the Laboratory of Behavioral and Cognitive Neuroscience, led by [Dr. Josef parvizi](https://med.stanford.edu/parvizi-lab/people.html). 
+    My research investigates how we construct representations of future states -- specifically, how are we able to think of a time point that never occured before, and how do these imagined future states influence our current thoughts and behavior?
+    Currently, I explore how expectations about certain individuals shape subsequent face perception. Using intracranial brain recordings, I aim to examine the temporal dynamics through which expectations modulate sensory processing. 
+    During my PhD training, I spearheaded a large scale fMRI dataset project and [examined the relationship between expectations and pain processing](https://2023.ccneuro.org/proceedings/0001075.pdf) at the Cognitive Affective Neuroscience Lab advised by [Tor Wager](https://pbs.dartmouth.edu/people/tor-wager) and co-advised by [McKell Carter](https://www.colorado.edu/psych-neuro/r-mckell-carter).
+    I'm also broadly interested in macroscale neural dynamics across various cognitive processes, particularly in how these processes converge to facilitate complex cognitive functions. (I discuss the role of such convergence zones in supporting higher-order representations, such as imagining future states or thinking about other people's thoughts, in [my review paper](https://direct.mit.edu/jocn/article/34/3/381/108892/Novel-Cognitive-Functions-Arise-at-the-Convergence).
+    
