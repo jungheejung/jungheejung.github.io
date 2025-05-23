@@ -1,5 +1,9 @@
 # Build settings
 markdown: kramdown
 
+kramdown:
+  input: GFM
+  hard_wrap: true
+
 # http://jekyllrb.com/docs/github-pages/#project-page-url-structure
 baseurl: ""
