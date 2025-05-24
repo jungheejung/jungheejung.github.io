@@ -71,10 +71,7 @@ section {
   }
   section a,
   section a:hover {
-    /* color: #2C2AD7; */
-    /* color:#70D6FF; */
-    /* color:#2868CE; */
-    color: #0B5EFE;
+    color: #880D1E;
   }
 
 /*******************
@@ -82,22 +79,8 @@ section {
  *******************/
 .intro-screen,
 .intro-screen header {
-  /* background-color:#44a9eb; */
-  /* background-col#a8d0e60e6; */
-  /* background-color:#2730D8; */
-  /* background-color: #89CFF0;  */
-  /* #BAFFAD */
-  /* background-color: #BFDBFE;  */
-  background-color:#00C966;
-   /* #55CC81; */
-   /* #CC99CC; */
-   /* testcolor: #A6C6FD;
-  testcolor: #AEC6F7;  */
-  color:#fff;
-   /* #870012; */
-  /* color: #00346F; */
-  /* color:#7AF864;
-  color:#fff;  */
+  background-color:#FFF9FB;
+  color:#333333;
 }
   .intro-screen h1,
   .intro-screen h2,
@@ -106,11 +89,7 @@ section {
   }
   .intro-screen a,
   .intro-screen a:hover {
-    /* color:#F8ADA7; */
-    /* color: #f8b100; */
-    /* color: #023618; */
     color: #FFF056;
-    /* color:#fff59d; */
   }
 
 /*******************
