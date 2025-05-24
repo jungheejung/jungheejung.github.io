@@ -8,14 +8,15 @@
 #   month: March
 #   pdf: http://www.personalinformatics.org/docs/papers/2012-ianli-tochi-physical-activity.pdf
 #   url: http://dl.acm.org/citation.cfm?id=2147783.2147790
-- type: conference
+- type: journal
   title: A multimodal fMRI dataset unifying naturalistic processes with a rich array of experimental tasks
   authors: Heejung Jung, Maryam Amini, Bethany A. Hunt, Eilis I. Murphy, Patrick Sadil, Yaroslav O. Halchenko, Zizhuang Miao, Philip Al. Kragel, Xiaochun Han, Mickela Heilicher, Bogdan Petre, Michael Sun, Owen G. Collins, Martin A. Lindquist, Tor D. Wager
-  year: In prep
+  journal: Accepted at Scientific Data
+  year: 2025
 - type: conference
   title: "Domain-general and specific effects of expectation on multimodal negative affect"
   authors: Heejung Jung, Aryan Yazdanpanah, Alireza Soltani, Martin A. Lindquist, Tor D. Wager
-  year: In prep
+  year: Proceedings of 2024 Conference on Cognitive Computational Neuroscience
 - type: conference
   title: "Grounding High Dimensional Representation Similarity by Comparing Decodability and Network Performance"
   authors: Lucas Hayne, Heejung Jung, Abhijit Suresh, R. McKell Carter
