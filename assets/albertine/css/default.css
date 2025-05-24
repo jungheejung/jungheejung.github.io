@@ -52,7 +52,7 @@ section {
     line-height:40px;
     font-weight:bold;
     font-size:24px;
-    color: #9AE1F7;
+    color: #D6536D;
   }
   section .lead {
     font-size:24px;
@@ -66,7 +66,7 @@ section {
   }
   section a,
   section a:hover {
-    color: #E76F51;
+    color: #E43D12;
   }
 
 /*******************
@@ -74,7 +74,7 @@ section {
  *******************/
 .intro-screen,
 .intro-screen header {
-  background-color:#9AE1F7;
+  background-color:#EBE9E1;
   color:#333333;
 }
   .intro-screen h1,
@@ -84,7 +84,7 @@ section {
   }
   .intro-screen a,
   .intro-screen a:hover {
-    color: #E76F51;
+    color: #E43D12;
   }
 
 /*******************
