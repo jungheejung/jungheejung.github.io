@@ -52,12 +52,7 @@ section {
     line-height:40px;
     font-weight:bold;
     font-size:24px;
-    /* color:#C992B4; */
-    /* color:#fc4445; */
-    /* color:#C64191; */
-    /* color: #7AF864; */
-    color: #FFA7BD;
-/*       #00C966; */
+    color: #9AE1F7;
   }
   section .lead {
     font-size:24px;
@@ -71,7 +66,7 @@ section {
   }
   section a,
   section a:hover {
-    color: #880D1E;
+    color: #E76F51;
   }
 
 /*******************
