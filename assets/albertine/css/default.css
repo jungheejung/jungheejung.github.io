@@ -74,13 +74,13 @@ section {
  *******************/
 .intro-screen,
 .intro-screen header {
-  background-color:#EBE9E1;
+  background-color:#FAF9F4;
   color:#333333;
 }
   .intro-screen h1,
   .intro-screen h2,
   .intro-screen h3 {
-    color:#FAF9F4;
+    color:#EFB11D;
   }
   .intro-screen a,
   .intro-screen a:hover {
