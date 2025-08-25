@@ -15,15 +15,15 @@
   volume: 12
   issue: 1465
   year: 2025
+  pages: 1-18
+  pdf: https://doi.org/10.1038/s41597-025-05154-x
   url: https://doi.org/10.1038/s41597-025-05154-x
-  
 - type: journal
   title: "Action features dominate cortical representation during natural vision"
   authors:  Heejung Jung, Xiaochun Han, Ma Feilong, Jane Han, Deepanshi Shokeen, Cara Van Uden, Isabella Hanson, Andrew C. Connolly, James V. Haxby, Samuel A. Nastase
   journal: BioRxiv
   year: 2025
   url: https://doi.org/10.1101/2025.01.30.635800
-  
 - type: conference
   title: "Domain-general and specific effects of expectation on multimodal negative affect"
   authors: Heejung Jung, Aryan Yazdanpanah, Alireza Soltani, Martin A. Lindquist, Tor D. Wager
