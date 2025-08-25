@@ -9,14 +9,16 @@
 #   pdf: http://www.personalinformatics.org/docs/papers/2012-ianli-tochi-physical-activity.pdf
 #   url: http://dl.acm.org/citation.cfm?id=2147783.2147790
 - type: journal
-  title: A multimodal fMRI dataset unifying naturalistic processes with a rich array of experimental tasks
+  title: "Spacetop: A multimodal fMRI dataset unifying naturalistic processes with a rich array of experimental task"
   authors: Heejung Jung, Maryam Amini, Bethany A. Hunt, Eilis I. Murphy, Patrick Sadil, Yaroslav O. Halchenko, Zizhuang Miao, Philip Al. Kragel, Xiaochun Han, Mickela Heilicher, Bogdan Petre, Michael Sun, Owen G. Collins, Martin A. Lindquist, Tor D. Wager
-  journal: Accepted at Scientific Data
-  volume: TBD
-  issue: TBD
+  journal: Scientific Data
+  volume: 12
+  issue: 1465
   year: 2025
+  url: https://doi.org/10.1038/s41597-025-05154-x
+  
 - type: journal
-  title: Action features dominate cortical representation during natural vision
+  title: "Action features dominate cortical representation during natural vision"
   authors:  Heejung Jung, Xiaochun Han, Ma Feilong, Jane Han, Deepanshi Shokeen, Cara Van Uden, Isabella Hanson, Andrew C. Connolly, James V. Haxby, Samuel A. Nastase
   journal: BioRxiv
   year: 2025
