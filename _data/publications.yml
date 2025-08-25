@@ -24,6 +24,7 @@
   journal: BioRxiv
   year: 2025
   url: https://doi.org/10.1101/2025.01.30.635800
+  pdf: https://doi.org/10.1101/2025.01.30.635800
 - type: conference
   title: "Domain-general and specific effects of expectation on multimodal negative affect"
   authors: Heejung Jung, Aryan Yazdanpanah, Alireza Soltani, Martin A. Lindquist, Tor D. Wager
@@ -62,6 +63,7 @@
   # pages: 1-16
   # pdf: http://www.personalinformatics.org/docs/papers/2012-ianli-tochi-physical-activity.pdf
   url: https://doi.org/10.1073/pnas.2214268119
+  pdf: https://doi.org/10.1073/pnas.2214268119
 # \item{\textbf{Jung, H.}, Wager, T. D., \& Carter, R. M. (2022). Novel Cognitive Functions Arise at the Convergence of Macroscale Gradients. Journal of Cognitive Neuroscience, 34(3), 381–396, https://doi.org/10.1162/jocn\_a\_01803}
 - type: journal
   title: "Novel Cognitive Functions Arise at the Convergence of Macroscale Gradients"
