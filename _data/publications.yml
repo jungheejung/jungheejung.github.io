@@ -29,9 +29,9 @@
   authors: Heejung Jung, Aryan Yazdanpanah, Alireza Soltani, Martin A. Lindquist, Tor D. Wager
   year: Proceedings of 2024 Conference on Cognitive Computational Neuroscience
 - type: conference
-  title: "Grounding High Dimensional Representation Similarity by Comparing Decodability and Network Performance"
-  authors: Lucas Hayne, Heejung Jung, Abhijit Suresh, R. McKell Carter
-  conference: Accepted at Transactions on Machine Learning Research
+  title: "Does Representation Similarity Capture Function Similarity?"
+  authors: Lucas Hayne, Heejung Jung, R. McKell Carter
+  conference: Transactions on Machine Learning Research
   pdf: https://openreview.net/forum?id=YY2iA0hfia
   url: https://openreview.net/forum?id=YY2iA0hfia
 - type: conference
