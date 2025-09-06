@@ -7,7 +7,7 @@
 
     Check out my analysis notebook; please note that it's a working document for reproducibility and documentation, not a final product → [Cue-expectancy Rbookdown](https://jungheejung.github.io/cue_expectancy)
   image: /img/project_cue_pain.png
-  url: https://jungheejung.github.io/cue_expectancy
+  url: https://jungheejung.github.io/cue_expectancy_bookdown
 
 - name: "BIDS-ifying and analyzing skin conductance response"
   description: >
